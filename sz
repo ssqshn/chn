@@ -1,111 +1,104 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV1-综合" tvg-logo="http://175.178.182.213/tb/CCTV1-综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1-综合
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-1 综合" tvg-logo="http://175.178.182.213/tb/CCTV-1 综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-1 综合
 http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV2-财经" tvg-logo="http://175.178.182.213/tb/CCTV2-财经.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV2-财经
-http://116.77.33.98:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV3-综艺" tvg-logo="http://175.178.182.213/tb/CCTV3-综艺.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV3-综艺
-http://116.77.33.98:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV4-国际" tvg-logo="http://175.178.182.213/tb/CCTV4-国际.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV4-国际
-http://116.77.33.98:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV5-体育" tvg-logo="http://175.178.182.213/tb/CCTV5-体育.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5-体育
-http://116.77.33.98:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV5+体育赛事" tvg-logo="http://175.178.182.213/tb/CCTV5+体育赛事.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV5+体育赛事
-http://116.77.33.98:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV6-电影" tvg-logo="http://175.178.182.213/tb/CCTV6-电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV6-电影
-http://116.77.33.98:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV7-军农" tvg-logo="http://175.178.182.213/tb/CCTV7-军农.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV7-军农
-http://116.77.33.98:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV8-电视剧" tvg-logo="http://175.178.182.213/tb/CCTV8-电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV8-电视剧
-http://116.77.33.98:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV9-纪录" tvg-logo="http://175.178.182.213/tb/CCTV9-纪录.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV9-纪录
-http://116.77.33.98:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV10-科教" tvg-logo="http://175.178.182.213/tb/CCTV10-科教.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV10-科教
-http://116.77.33.98:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV11-戏曲" tvg-logo="http://175.178.182.213/tb/CCTV11-戏曲.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV11-戏曲
-http://116.77.33.98:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV12-社会与法" tvg-logo="http://175.178.182.213/tb/CCTV12-社会与法.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV12-社会与法
-http://116.77.33.98:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV13-新闻" tvg-logo="http://175.178.182.213/tb/CCTV13-新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV13-新闻
-http://116.77.33.98:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV14-少儿" tvg-logo="http://175.178.182.213/tb/CCTV14-少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV14-少儿
-http://116.77.33.98:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV15-音乐" tvg-logo="http://175.178.182.213/tb/CCTV15-音乐.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV15-音乐
-http://116.77.33.98:44330/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="CCTV16" tvg-logo="http://175.178.182.213/tb/CCTV16.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV16
-http://116.77.33.98:44330/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="深圳卫视" tvg-logo="http://175.178.182.213/tb/深圳卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳卫视
-http://116.77.33.98:44330/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="深圳都市" tvg-logo="http://175.178.182.213/tb/深圳都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳都市
-http://116.77.33.98:44330/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="深圳电视剧" tvg-logo="http://175.178.182.213/tb/深圳电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳电视剧
-http://116.77.33.98:44330/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="深圳少儿" tvg-logo="http://175.178.182.213/tb/深圳少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳少儿
-http://116.77.33.98:44330/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="天威TVG" tvg-logo="http://175.178.182.213/tb/天威TVG.png" epg-url="http://epg.51zmt.top:8000/e.xml",天威TVG
-http://116.77.33.98:44330/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-2 财经" tvg-logo="http://175.178.182.213/tb/CCTV-2 财经.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-2 财经
+http://111.221.137.234:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-3 综艺" tvg-logo="http://175.178.182.213/tb/CCTV-3 综艺.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-3 综艺
+http://111.221.137.234:44330/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-4 中文国际" tvg-logo="http://175.178.182.213/tb/CCTV-4 中文国际.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-4 中文国际
+http://111.221.137.234:44330/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-5 体育" tvg-logo="http://175.178.182.213/tb/CCTV-5 体育.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-5 体育
+http://111.221.137.234:44330/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-6 电影" tvg-logo="http://175.178.182.213/tb/CCTV-6 电影.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-6 电影
+http://111.221.137.234:44330/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-7 国防军事" tvg-logo="http://175.178.182.213/tb/CCTV-7 国防军事.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-7 国防军事
+http://111.221.137.234:44330/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-8 电视剧" tvg-logo="http://175.178.182.213/tb/CCTV-8 电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-8 电视剧
+http://111.221.137.234:44330/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-9 纪录" tvg-logo="http://175.178.182.213/tb/CCTV-9 纪录.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-9 纪录
+http://111.221.137.234:44330/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-10 科教" tvg-logo="http://175.178.182.213/tb/CCTV-10 科教.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-10 科教
+http://111.221.137.234:44330/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-11 戏曲" tvg-logo="http://175.178.182.213/tb/CCTV-11 戏曲.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-11 戏曲
+http://111.221.137.234:44330/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-12 社会与法" tvg-logo="http://175.178.182.213/tb/CCTV-12 社会与法.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-12 社会与法
+http://111.221.137.234:44330/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-13 新闻" tvg-logo="http://175.178.182.213/tb/CCTV-13 新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-13 新闻
+http://111.221.137.234:44330/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-14 少儿" tvg-logo="http://175.178.182.213/tb/CCTV-14 少儿.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-14 少儿
+http://111.221.137.234:44330/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-15 音乐" tvg-logo="http://175.178.182.213/tb/CCTV-15 音乐.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-15 音乐
+http://111.221.137.234:44330/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="CCTV-5+ 体育赛事" tvg-logo="http://175.178.182.213/tb/CCTV-5+ 体育赛事.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV-5+ 体育赛事
+http://111.221.137.234:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="CGTN" tvg-logo="http://175.178.182.213/tb/CGTN.png" epg-url="http://epg.51zmt.top:8000/e.xml",CGTN
-http://116.77.33.98:44330/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="Channel [V]" tvg-logo="http://175.178.182.213/tb/Channel [V].png" epg-url="http://epg.51zmt.top:8000/e.xml",Channel [V]
-http://116.77.33.98:44330/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台
-http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="明珠台" tvg-logo="http://175.178.182.213/tb/明珠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",明珠台
-http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="凤凰卫视中文台" tvg-logo="http://175.178.182.213/tb/凤凰卫视中文台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰卫视中文台
-http://116.77.33.98:44330/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="深圳卫视" tvg-logo="http://175.178.182.213/tb/深圳卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳卫视
+http://111.221.137.234:44330/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="深圳都市" tvg-logo="http://175.178.182.213/tb/深圳都市.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳都市
+http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="深圳电视剧" tvg-logo="http://175.178.182.213/tb/深圳电视剧.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳电视剧
+http://111.221.137.234:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="深圳财经生活" tvg-logo="http://175.178.182.213/tb/深圳财经生活.png" epg-url="http://epg.51zmt.top:8000/e.xml",深圳财经生活
+http://111.221.137.234:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="广东卫视" tvg-logo="http://175.178.182.213/tb/广东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",广东卫视
-http://116.77.33.98:44330/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="广东体育" tvg-logo="http://175.178.182.213/tb/广东体育.png" epg-url="http://epg.51zmt.top:8000/e.xml",广东体育
-http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="广东公共" tvg-logo="http://175.178.182.213/tb/广东公共.png" epg-url="http://epg.51zmt.top:8000/e.xml",广东公共
-http://116.77.33.98:44330/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="广东新闻" tvg-logo="http://175.178.182.213/tb/广东新闻.png" epg-url="http://epg.51zmt.top:8000/e.xml",广东新闻
-http://116.77.33.98:44330/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="南方卫视" tvg-logo="http://175.178.182.213/tb/南方卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",南方卫视
-http://116.77.33.98:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="湖南卫视" tvg-logo="http://175.178.182.213/tb/湖南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖南卫视
-http://116.77.33.98:44330/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="江苏卫视" tvg-logo="http://175.178.182.213/tb/江苏卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",江苏卫视
-http://116.77.33.98:44330/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="浙江卫视" tvg-logo="http://175.178.182.213/tb/浙江卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",浙江卫视
-http://116.77.33.98:44330/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="北京卫视" tvg-logo="http://175.178.182.213/tb/北京卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",北京卫视
-http://116.77.33.98:44330/tsfile/live/0122_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="上海卫视" tvg-logo="http://175.178.182.213/tb/上海卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",上海卫视
-http://116.77.33.98:44330/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="东方卫视" tvg-logo="http://175.178.182.213/tb/东方卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",东方卫视
+http://111.221.137.234:44330/tsfile/live/0126_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="天津卫视" tvg-logo="http://175.178.182.213/tb/天津卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",天津卫视
-http://116.77.33.98:44330/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="山东卫视" tvg-logo="http://175.178.182.213/tb/山东卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",山东卫视
-http://116.77.33.98:44330/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="黑龙江卫视" tvg-logo="http://175.178.182.213/tb/黑龙江卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",黑龙江卫视
-http://116.77.33.98:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="安徽卫视" tvg-logo="http://175.178.182.213/tb/安徽卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",安徽卫视
-http://116.77.33.98:44330/tsfile/live/0130_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="辽宁卫视" tvg-logo="http://175.178.182.213/tb/辽宁卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",辽宁卫视
-http://116.77.33.98:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="湖北卫视" tvg-logo="http://175.178.182.213/tb/湖北卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖北卫视
-http://116.77.33.98:44330/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="重庆卫视" tvg-logo="http://175.178.182.213/tb/重庆卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",重庆卫视
-http://116.77.33.98:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="星空卫视" tvg-logo="http://175.178.182.213/tb/星空卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",星空卫视
-http://116.77.33.98:44330/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="澳视澳门" tvg-logo="http://175.178.182.213/tb/澳视澳门.png" epg-url="http://epg.51zmt.top:8000/e.xml",澳视澳门
-http://116.77.33.98:44330/tsfile/live/0114_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="四川卫视" tvg-logo="http://175.178.182.213/tb/四川卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",四川卫视
-http://116.77.33.98:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="吉林卫视" tvg-logo="http://175.178.182.213/tb/吉林卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",吉林卫视
-http://116.77.33.98:44330/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="江西卫视" tvg-logo="http://175.178.182.213/tb/江西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",江西卫视
-http://116.77.33.98:44330/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="陕西卫视" tvg-logo="http://175.178.182.213/tb/陕西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西卫视
-http://116.77.33.98:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="河南卫视" tvg-logo="http://175.178.182.213/tb/河南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",河南卫视
-http://116.77.33.98:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+http://111.221.137.234:44330/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="重温经典" tvg-logo="http://175.178.182.213/tb/重温经典.png" epg-url="http://epg.51zmt.top:8000/e.xml",重温经典
-http://116.77.33.98:44330/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="广东专线" tvg-name="凤凰卫视电影台" tvg-logo="http://175.178.182.213/tb/凤凰卫视电影台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰卫视电影台
-http://106.116.126.240:4022/rtp/239.254.201.1:5214
-
+http://111.221.137.234:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="安徽卫视" tvg-logo="http://175.178.182.213/tb/安徽卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",安徽卫视
+http://111.221.137.234:44330/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="辽宁卫视" tvg-logo="http://175.178.182.213/tb/辽宁卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",辽宁卫视
+http://111.221.137.234:44330/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="湖北卫视" tvg-logo="http://175.178.182.213/tb/湖北卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",湖北卫视
+http://111.221.137.234:44330/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="重庆卫视" tvg-logo="http://175.178.182.213/tb/重庆卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",重庆卫视
+http://111.221.137.234:44330/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="海南卫视" tvg-logo="http://175.178.182.213/tb/海南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",海南卫视
+http://111.221.137.234:44330/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="四川卫视" tvg-logo="http://175.178.182.213/tb/四川卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",四川卫视
+http://111.221.137.234:44330/tsfile/live/0137_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="吉林卫视" tvg-logo="http://175.178.182.213/tb/吉林卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",吉林卫视
+http://111.221.137.234:44330/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="江西卫视" tvg-logo="http://175.178.182.213/tb/江西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",江西卫视
+http://111.221.137.234:44330/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="陕西卫视" tvg-logo="http://175.178.182.213/tb/陕西卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",陕西卫视
+http://111.221.137.234:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="河南卫视" tvg-logo="http://175.178.182.213/tb/河南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",河南卫视
+http://111.221.137.234:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="云南卫视" tvg-logo="http://175.178.182.213/tb/云南卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",云南卫视
+http://111.221.137.234:44330/tsfile/live/0118_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="翡翠台" tvg-logo="http://175.178.182.213/tb/翡翠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",翡翠台
+http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="明珠台" tvg-logo="http://175.178.182.213/tb/明珠台.png" epg-url="http://epg.51zmt.top:8000/e.xml",明珠台
+http://111.221.137.234:44330/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="Channel [V]" tvg-logo="http://175.178.182.213/tb/Channel [V].png" epg-url="http://epg.51zmt.top:8000/e.xml",Channel [V]
+http://111.221.137.234:44330/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="凤凰卫视中文台" tvg-logo="http://175.178.182.213/tb/凤凰卫视中文台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰卫视中文台
+http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="广东专线" tvg-name="星空卫视" tvg-logo="http://175.178.182.213/tb/星空卫视.png" epg-url="http://epg.51zmt.top:8000/e.xml",星空卫视
+http://111.221.137.234:44330/tsfile/live/0112_2.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="CCTV1综合高清" tvg-logo="https://live.fanmingming.cn/tv/CCTV1%E7%BB%BC%E5%90%88%E9%AB%98%E6%B8%85.png" group-title="央视频道",CCTV1综合高清
