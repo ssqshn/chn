@@ -1,7 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="广东专线" tvg-name="CCTV1-综合" tvg-logo="http://175.178.182.213/tb/CCTV1-综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1-综合
 http://111.221.137.234:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="CCTV2-财经" tvg-logo="http://175.178.182.213/tb/CCTV2-财经.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV2-财经
 http://116.77.33.98:44330/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="广东专线" tvg-name="CCTV3-综艺" tvg-logo="http://175.178.182.213/tb/CCTV3-综艺.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV3-综艺
@@ -427,7 +426,7 @@ http://120.87.19.109:80/PLTV/88888973/224/3221225700/100001000000000600000000003
 http://74.91.26.218:82/live/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/凤凰卫视电影台.png"group-title="港澳",凤凰卫视电影台
+#EXTINF:-1 group-title="广东专线" tvg-name="凤凰卫视电影台" tvg-logo="http://175.178.182.213/tb/凤凰卫视电影台.png" epg-url="http://epg.51zmt.top:8000/e.xml",凤凰卫视电影台
 http://106.116.126.240:4022/rtp/239.254.201.1:5214
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="爱不停息" tvg-logo="https://live.fanmingming.cn/tv/%E7%88%B1%E4%B8%8D%E5%81%9C%E6%81%AF.png" group-title="🆗爱广场舞",爱不停息
