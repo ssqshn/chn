@@ -1582,7 +1582,6 @@ http://vdown.kuwo.cn:80/resource/t1/46/26af4a23c9e04725bd1dc491b662f386.mp4
 
 
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 group-title="广东专线" tvg-name="酒店视频" tvg-logo="http://175.178.182.213/tb/酒店视频.png" epg-url="http://epg.51zmt.top:8000/e.xml",酒店视频
 http://116.77.33.98:44330/iptv/live/987.mp4?key=txiptv
 #EXTINF:-1 group-title="广东专线" tvg-name="CCTV1-综合" tvg-logo="http://175.178.182.213/tb/CCTV1-综合.png" epg-url="http://epg.51zmt.top:8000/e.xml",CCTV1-综合
 http://116.77.33.98:44330/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
