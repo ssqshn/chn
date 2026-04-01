@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.aarr.cc" 
 #EXTINF:-1 group-title="深圳" tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/%E6%B7%B1%E5%9C%B3%E9%83%BD%E5%B8%82.png",东森电影
-https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2afabaeafbbd.ctv
+http://156.238.248.80:5050/smart.php?id=ettvmovie&token=8522
 #EXTINF:-1 group-title="深圳" tvg-name="深圳都市" tvg-logo="https://live.fanmingming.cn/tv/%E6%B7%B1%E5%9C%B3%E9%83%BD%E5%B8%82.png",深圳都市
 http://111.221.137.234:44330/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="深圳" tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E5%B8%82.png",深圳卫视
